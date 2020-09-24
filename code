@@ -1,0 +1,18 @@
+<!DOCTYPE html> 
+<html lang = "en"> 
+<head> 
+<title>Future in 2100</title> 
+</head> 
+ 
+<body> 
+<h1>How the future will be in 2100</h1> 
+<img src = "https://www.future-customer.com/wp-content/uploads/sites/4/beitragsbild_zukunftsstudie.jpg width = 300 height = 200"> <!--Chunyu Yu B00830050 forget to write alt to describe the picture, therefore, the picture cannot be showed--> 
+ 
+<section> 
+<h2>Future Car</h2> 
+<p>If you want to know more please click <a href="https://www.futurecar.com"> this Link</a> or send email to<a href = "ch741801@dal.ca"> ch741801@dal.ca</a></p> <!--Chunyu Yu B00830050 if you want to write send email link you should add mailto. before the link--> 
+</section> 
+</body> 
+ 
+</html> 
+
